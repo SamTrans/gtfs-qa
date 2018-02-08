@@ -6,7 +6,7 @@ For more GTFS resources checkout this [awesome-transit](https://github.com/CUTR-
 
 ## Quick start
 
-[Binder](https://mybinder.org) is an convenient tool that runs code notebooks live from anywhere. 
+[Binder](https://mybinder.org) is an convenient tool for running notebooks from anywhere. 
 
 Click here to launch this repo:
 
