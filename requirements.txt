@@ -1,6 +1,8 @@
+# Python 2 only
+transitfeed==1.2.16
+
+# Python 2/3 compatible
 jupyter==1.0.0
 requests==2.18.4
 pytz==2017.3
-
-# Python 2 only
-transitfeed==1.2.16
+pandas==0.22.0
