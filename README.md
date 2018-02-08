@@ -6,9 +6,11 @@ For more GTFS resources checkout this [awesome-transit](https://github.com/CUTR-
 
 ## Quick start
 
-[Binder](https://mybinder.org) is an awesome tool that runs code notebooks live from anywhere. 
+[Binder](https://mybinder.org) is an convenient tool that runs code notebooks live from anywhere. 
 
-Click here to launch this repo with Binder >>  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/SamTrans/gtfs-qa/master)
+Click here to launch this repo:
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/SamTrans/gtfs-qa/master)
 
 
 ## Project structure
